@@ -1,5 +1,5 @@
-# http client plus
+# plugin name
 
 ## [Unreleased]
 ### Added
-- add a custom configuration and automatically adapt according to the configuration.
+- Version description
